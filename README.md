@@ -1,3 +1,2 @@
-# ozonets
-I created a project on a full analysis of a time series on ozone change over a 18 year period (1955-1972) in downtown Los Angeles. 
-This is an important topic to cover, as ozone decrease is not good for human life, since it blocks out harmful UV rays from the sun.
+# Ozone Time Series Analysis
+My project involves conducting a comprehensive analysis of the changes in ozone levels over a period of 18 years (1955-1972) in downtown Los Angeles. This is a critical topic to address, as decreasing ozone levels can have adverse effects on human health by allowing harmful UV rays from the sun to penetrate the atmosphere. Therefore, it is essential to gain a deeper understanding of the factors that contribute to ozone changes and their potential impact on our environment.
